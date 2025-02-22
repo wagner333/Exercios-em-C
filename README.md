@@ -181,7 +181,7 @@ e os respectivos preços em 3 situações:
         Acrescente 10% de folga e sempre arredonde os valores para cima,
         isto é, considere latas cheias.
 
-#### [Exercicio 018](exercicios/018.cpp)
+#### [Exercicio 018](exercicios/018.c)
 
 Faça um programa que peça o tamanho de um arquivo para download (em MB) e a
 velocidade de um link de Internet (em Mbps), calcule e informe o tempo
@@ -189,25 +189,25 @@ aproximado de download do arquivo usando este link (em minutos).
 
 ### Estruturas de decisão
 
-#### [Exercicio 019](exercicios/019.cpp)
+#### [Exercicio 019](exercicios/019.c)
 
 Faça um Programa que peça dois números e imprima o maior deles.
 
-#### [Exercicio 020](exercicios/020.cpp)
+#### [Exercicio 020](exercicios/020.c)
 
 Faça um Programa que peça um valor e mostre na tela se o valor é
 positivo ou negativo.
 
-#### [Exercicio 021](exercicios/021.cpp)
+#### [Exercicio 021](exercicios/021.c)
 
 Faça um Programa que verifique se uma letra digitada é "F" ou "M".
 Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
 
-#### [Exercicio 022](exercicios/022.cpp)
+#### [Exercicio 022](exercicios/022.c)
 
 Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
 
-#### [Exercicio 023](exercicios/023.cpp)
+#### [Exercicio 023](exercicios/023.c)
 
 Faça um programa para a leitura de duas notas parciais de um aluno.
 O programa deve calcular a média alcançada por aluno e apresentar:
@@ -215,24 +215,24 @@ A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
 A mensagem "Reprovado", se a média for menor do que sete;
 A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
-#### [Exercicio 024](exercicios/024.cpp)
+#### [Exercicio 024](exercicios/024.c)
 
 Faça um Programa que leia três números e mostre o maior deles.
 
-#### [Exercicio 025](exercicios/025.cpp)
+#### [Exercicio 025](exercicios/025.c)
 
 Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-#### [Exercicio 026](exercicios/026.cpp)
+#### [Exercicio 026](exercicios/026.c)
 
 Faça um programa que pergunte o preço de três produtos e informe qual produto
 você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
-#### [Exercicio 027](exercicios/027.cpp)
+#### [Exercicio 027](exercicios/027.c)
 
 Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
-#### [Exercicio 028](exercicios/028.cpp)
+#### [Exercicio 028](exercicios/028.c)
 
 Faça um Programa que pergunte em que turno você estuda.
 Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
@@ -240,7 +240,7 @@ Peça para digitar M-matutino ou V-Vespertino ou N- Noturno.
 Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou
 "Valor Inválido!", conforme o caso.
 
-#### [Exercicio 029](exercicios/029.cpp)
+#### [Exercicio 029](exercicios/029.c)
 
 As Organizações Tabajara resolveram dar um aumento de salário aos seus
 colaboradores e lhe contrataram para desenvolver o programa que calculará os
@@ -260,7 +260,7 @@ seguinte critério, baseado no salário atual:
         o valor do aumento;
         o novo salário, após o aumento.
 
-#### [Exercicio 030](exercicios/030.cpp)
+#### [Exercicio 030](exercicios/030.c)
 
 Faça um programa para o cálculo de uma folha de pagamento, sabendo que os
 descontos são do Imposto de Renda, que depende do salário bruto
