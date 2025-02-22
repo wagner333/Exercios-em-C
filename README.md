@@ -99,13 +99,13 @@ o produto do dobro do primeiro com metade do segundo.
 a soma do triplo do primeiro com o terceiro.
 o terceiro elevado ao cubo.
 
-#### [Exercicio 012](exercicios/012.cpp)
+#### [Exercicio 012](exercicios/012.c)
 
 Tendo como dados de entrada a altura de uma pessoa,
 construa um algoritmo que calcule seu peso ideal,
 usando a seguinte fórmula: (72.7\*altura) - 58
 
-#### [Exercicio 013](exercicios/013.cpp)
+#### [Exercicio 013](exercicios/013.c)
 
 Tendo como dado de entrada a altura (h) de uma pessoa,
 construa um algoritmo que calcule seu peso ideal,
@@ -113,7 +113,7 @@ utilizando as seguintes fórmulas:
 Para homens: (72.7*h) - 58
 Para mulheres: (62.1*h) - 44.7
 
-#### [Exercicio 014](exercicios/014.cpp)
+#### [Exercicio 014](exercicios/014.c)
 
 João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar
 o rendimento diário de seu trabalho.
@@ -129,7 +129,7 @@ Gravar na variável excesso a quantidade de quilos além do limite
 e na variável multa o valor da multa que João deverá pagar.
 Imprima os dados do programa com as mensagens adequadas.
 
-#### [Exercicio 015](exercicios/015.cpp)
+#### [Exercicio 015](exercicios/015.c)
 
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas
 trabalhadas no mês.
@@ -151,7 +151,7 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
 Obs.: Salário Bruto - Descontos = Salário Líquido.
 
-#### [Exercicio 016](exercicios/016.cpp)
+#### [Exercicio 016](exercicios/016.c)
 
 Faça um programa para uma loja de tintas.
 O programa deverá pedir o tamanho em metros quadrados da área a ser pintada.
@@ -162,7 +162,7 @@ quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00.
 Informe ao usuário a quantidades de latas de tinta
 a serem compradas e o preço total.
 
-#### [Exercicio 017](exercicios/017.cpp)
+#### [Exercicio 017](exercicios/017.c)
 
 Faça um Programa para uma loja de tintas.
 
