@@ -287,13 +287,13 @@ No exemplo o valor da hora é 5 e a quantidade de hora é 220.
         Total de descontos              : R$  165,00
         Salário Liquido                 : R$  935,00
 
-#### [Exercicio 031](exercicios/031.cpp)
+#### [Exercicio 031](exercicios/031.c)
 
 Faça um Programa que leia um número e exiba o dia correspondente da semana.
 (1-Domingo, 2- Segunda, etc.),
 se digitar outro valor deve aparecer valor inválido.
 
-#### [Exercicio 032](exercicios/032.cpp)
+#### [Exercicio 032](exercicios/032.c)
 
 Faça um programa que lê as duas notas parciais obtidas por um aluno numa
 disciplina ao longo de um semestre, e calcule a sua média.
@@ -310,7 +310,7 @@ O algoritmo deve mostrar na tela as notas, a média,
 o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C
 ou “REPROVADO” se o conceito for D ou E.
 
-#### [Exercicio 033](exercicios/033.cpp)
+#### [Exercicio 033](exercicios/033.c)
 
 Faça um Programa que peça os 3 lados de um triângulo.
 O programa deverá informar se os valores podem ser um triângulo.
@@ -324,7 +324,7 @@ Triângulo Equilátero: três lados iguais;
 Triângulo Isósceles: quaisquer dois lados iguais;
 Triângulo Escaleno: três lados diferentes;
 
-#### [Exercicio 034](exercicios/034.cpp)
+#### [Exercicio 034](exercicios/034.c)
 
 Faça um programa que calcule as raízes de uma equação do segundo grau,
 na forma ax² + bx + c.
@@ -342,17 +342,17 @@ informando ao usuário nas seguintes situações:
     Se o delta for positivo, a equação possui duas raiz reais;
         informe-as ao usuário;
 
-#### [Exercicio 035](exercicios/035.cpp)
+#### [Exercicio 035](exercicios/035.c)
 
 Faça um Programa que peça um número correspondente a um determinado ano e em
 seguida informe se este ano é ou não bissexto.
 
-#### [Exercicio 036](exercicios/036.cpp)
+#### [Exercicio 036](exercicios/036.c)
 
 Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma
 é uma data válida.
 
-#### [Exercicio 037](exercicios/037.cpp)
+#### [Exercicio 037](exercicios/037.c)
 
 Faça um Programa que leia um número inteiro maior que 0 e menor que 1000 e
 imprima a quantidade de centenas, dezenas e unidades do mesmo.
@@ -366,7 +366,7 @@ Exemplo:
 Testar com:
 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16
 
-#### [Exercicio 038](exercicios/038.cpp)
+#### [Exercicio 038](exercicios/038.c)
 
 Faça um Programa para um caixa eletrônico.
 
@@ -387,17 +387,17 @@ Exemplo 2:
 Para sacar a quantia de 399 reais, o programa fornece três notas de 100,
 uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
 
-#### [Exercicio 039](exercicios/039.cpp)
+#### [Exercicio 039](exercicios/039.c)
 
 Faça um Programa que peça um número inteiro e determine se ele é par ou impar.
 Dica: utilize o operador módulo (resto da divisão).
 
-#### [Exercicio 040](exercicios/040.cpp)
+#### [Exercicio 040](exercicios/040.c)
 
 Faça um Programa que peça um número e informe se o número é inteiro ou decimal.
 Dica: utilize uma função de arredondamento.
 
-#### [Exercicio 041](exercicios/041.cpp)
+#### [Exercicio 041](exercicios/041.c)
 
 Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual
 operação ele deseja realizar.
@@ -408,7 +408,7 @@ par ou ímpar;
 positivo ou negativo;
 inteiro ou decimal.
 
-#### [Exercicio 042](exercicios/042.cpp)
+#### [Exercicio 042](exercicios/042.c)
 
 Faça um programa que faça 5 perguntas para uma pessoa sobre um crime.
 As perguntas são:
@@ -425,7 +425,7 @@ Se a pessoa responder positivamente a 2 questões ela deve ser classificada
 como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino".
 Caso contrário, ele será classificado como "Inocente".
 
-#### [Exercicio 043](exercicios/043.cpp)
+#### [Exercicio 043](exercicios/043.c)
 
 Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 Álcool:
@@ -440,7 +440,7 @@ o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina),
 calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do
 litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
 
-#### [Exercicio 044](exercicios/044.cpp)
+#### [Exercicio 044](exercicios/044.c)
 
 Uma fruteira está vendendo frutas com a seguinte tabela de preços:
 
@@ -455,7 +455,7 @@ ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total.
 Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade
 (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.
 
-#### [Exercicio 045](exercicios/045.cpp)
+#### [Exercicio 045](exercicios/045.c)
 
 O Hipermercado Tabajara está com uma promoção de carnes que é imperdível.
 Confira:
@@ -484,19 +484,19 @@ valor a pagar.
 
 ### Estruturas de repetição
 
-#### [Exercicio 046](exercicios/046.cpp)
+#### [Exercicio 046](exercicios/046.c)
 
 Faça um programa que peça uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o
 usuário informe um valor válido.
 
-#### [Exercicio 047](exercicios/047.cpp)
+#### [Exercicio 047](exercicios/047.c)
 
 Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha
 igual ao nome do usuário, mostrando uma mensagem de erro e voltando a
 pedir as informações.
 
-#### [Exercicio 048](exercicios/048.cpp)
+#### [Exercicio 048](exercicios/048.c)
 
 Faça um programa que leia e valide as seguintes informações:
 Nome: maior que 3 caracteres;
@@ -505,7 +505,7 @@ Salário: maior que zero;
 Sexo: 'f' ou 'm';
 Estado Civil: 's', 'c', 'v', 'd';
 
-#### [Exercicio 049](exercicios/049.cpp)
+#### [Exercicio 049](exercicios/049.c)
 
 Supondo que a população de um país A seja da ordem de 80000 habitantes com uma
 taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes
@@ -515,38 +515,38 @@ Faça um programa que calcule e escreva o número de anos necessários para que 
 população do país A ultrapasse ou iguale a população do país B, mantidas as
 taxas de crescimento.
 
-#### [Exercicio 050](exercicios/050.cpp)
+#### [Exercicio 050](exercicios/050.c)
 
 Altere o programa anterior permitindo ao usuário informar as populações e as
 taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
 
-#### [Exercicio 051](exercicios/051.cpp)
+#### [Exercicio 051](exercicios/051.c)
 
 Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro.
 Depois modifique o programa para que ele mostre os números um ao lado do outro.
 
-#### [Exercicio 052](exercicios/052.cpp)
+#### [Exercicio 052](exercicios/052.c)
 
 Faça um programa que leia 5 números e informe o maior número.
 
-#### [Exercicio 053](exercicios/053.cpp)
+#### [Exercicio 053](exercicios/053.c)
 
 Faça um programa que leia 5 números e informe a soma e a média dos números.
 
-#### [Exercicio 054](exercicios/054.cpp)
+#### [Exercicio 054](exercicios/054.c)
 
 Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
 
-#### [Exercicio 055](exercicios/055.cpp)
+#### [Exercicio 055](exercicios/055.c)
 
 Faça um programa que receba dois números inteiros e gere os números inteiros
 que estão no intervalo compreendido por eles.
 
-#### [Exercicio 056](exercicios/056.cpp)
+#### [Exercicio 056](exercicios/056.c)
 
 Altere o programa anterior para mostrar no final a soma dos números.
 
-#### [Exercicio 057](exercicios/057.cpp)
+#### [Exercicio 057](exercicios/057.c)
 
 Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número
 inteiro entre 1 a 10.
@@ -558,54 +558,54 @@ Tabuada de 5:
 ...
 5 X 10 = 50
 
-#### [Exercicio 058](exercicios/058.cpp)
+#### [Exercicio 058](exercicios/058.c)
 
 Faça um programa que peça dois números, base e expoente,
 calcule e mostre o primeiro número elevado ao segundo número.
 Não utilize a função de potência da linguagem.
 
-#### [Exercicio 059](exercicios/059.cpp)
+#### [Exercicio 059](exercicios/059.c)
 
 Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de
 números pares e a quantidade de números impares.
 
-#### [Exercicio 060](exercicios/060.cpp)
+#### [Exercicio 060](exercicios/060.c)
 
 A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,...
 Faça um programa capaz de gerar a série até o n−ésimo termo.
 
-#### [Exercicio 061](exercicios/061.cpp)
+#### [Exercicio 061](exercicios/061.c)
 
 Faça um programa que calcule o fatorial de um número inteiro fornecido pelo
 usuário. Ex.: 5!=5.4.3.2.1=120
 
-#### [Exercicio 062](exercicios/062.cpp)
+#### [Exercicio 062](exercicios/062.c)
 
 Faça um programa que, dado um conjunto de N números, determine o menor valor,
 o maior valor e a soma dos valores.
 
-#### [Exercicio 063](exercicios/063.cpp)
+#### [Exercicio 063](exercicios/063.c)
 
 Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.
 
-#### [Exercicio 064](exercicios/064.cpp)
+#### [Exercicio 064](exercicios/064.c)
 
 Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o
 fatorial várias vezes e limitando o fatorial a números inteiros positivos e
 menores que 16.
 
-#### [Exercicio 065](exercicios/065.cpp)
+#### [Exercicio 065](exercicios/065.c)
 
 Faça um programa que peça um número inteiro e determine se ele é ou não um
 número primo. Um número primo é aquele que é divisível somente por ele mesmo
 e por 1.
 
-#### [Exercicio 066](exercicios/066.cpp)
+#### [Exercicio 066](exercicios/066.c)
 
 Altere o programa de cálculo dos números primos, informando, caso o número não
 seja primo, por quais número ele é divisível.
 
-#### [Exercicio 067](exercicios/067.cpp)
+#### [Exercicio 067](exercicios/067.c)
 
 Faça um programa que mostre todos os primos entre 1 e N sendo N um número
 inteiro fornecido pelo usuário.
@@ -616,38 +616,38 @@ encontrar os números primos.
 Serão avaliados o funcionamento, o estilo e o número de testes (divisões)
 executados.
 
-#### [Exercicio 068](exercicios/068.cpp)
+#### [Exercicio 068](exercicios/068.c)
 
 Faça um programa que calcule o mostre a média aritmética de N notas.
 
-#### [Exercicio 069](exercicios/069.cpp)
+#### [Exercicio 069](exercicios/069.c)
 
 Faça um programa que peça para n pessoas a sua idade, ao final o programa
 deverá verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e
 maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a
 média calculada.
 
-#### [Exercicio 070](exercicios/070.cpp)
+#### [Exercicio 070](exercicios/070.c)
 
 Numa eleição existem três candidatos.
 Faça um programa que peça o número total de eleitores.
 Peça para cada eleitor votar e ao final mostrar o número de votos
 de cada candidato.
 
-#### [Exercicio 071](exercicios/071.cpp)
+#### [Exercicio 071](exercicios/071.c)
 
 Faça um programa que calcule o número médio de alunos por turma.
 Para isto, peça a quantidade de turmas e a quantidade de
 alunos para cada turma.
 As turmas não podem ter mais de 40 alunos.
 
-#### [Exercicio 072](exercicios/072.cpp)
+#### [Exercicio 072](exercicios/072.c)
 
 Faça um programa que calcule o valor total investido por um colecionador em sua
 coleção de CDs e o valor médio gasto em cada um deles.
 O usuário deverá informar a quantidade de CDs e o valor para em cada um.
 
-#### [Exercicio 073](exercicios/073.cpp)
+#### [Exercicio 073](exercicios/073.c)
 
 O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99,
 com cerca de 10 caixas.
@@ -669,7 +669,7 @@ conforme o exemplo abaixo:
     ...
     50 - R$ 99.50
 
-#### [Exercicio 074](exercicios/074.cpp)
+#### [Exercicio 074](exercicios/074.c)
 
 O Sr. Manoel Joaquim acaba de adquirir uma panificadora e pretende implantar a
 metodologia da tabelinha, que já é um sucesso na sua loja de 1,99.
@@ -685,7 +685,7 @@ conforme o exemplo abaixo:
     ...
     50 - R$ 9.00
 
-#### [Exercicio 075](exercicios/075.cpp)
+#### [Exercicio 075](exercicios/075.c)
 
 O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e
 agora possui uma loja de conveniências.
@@ -712,14 +712,14 @@ Total: R$ 9.00
 Dinheiro: R$ 20.00
 Troco: R$ 11.00
 
-#### [Exercicio 076](exercicios/076.cpp)
+#### [Exercicio 076](exercicios/076.c)
 
 O Departamento Estadual de Meteorologia lhe contratou para desenvolver um
 programa que leia as um conjunto indeterminado de temperaturas,
 e informe ao final a menor e a maior temperaturas informadas,
 bem como a média das temperaturas.
 
-#### [Exercicio 077](exercicios/077.cpp)
+#### [Exercicio 077](exercicios/077.c)
 
 Desenvolva um programa que faça a tabuada de um número qualquer inteiro que
 será digitado pelo usuário, mas a tabuada não deve necessariamente iniciar em 1
@@ -738,7 +738,7 @@ usuário, conforme exemplo abaixo:
 
 Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
 
-#### [Exercicio 078](exercicios/078.cpp)
+#### [Exercicio 078](exercicios/078.c)
 
 Uma academia deseja fazer um senso entre seus clientes para descobrir o mais
 alto, o mais baixo, a mais gordo e o mais magro, para isto você deve fazer um
@@ -752,7 +752,7 @@ Ao encerrar o programa também deve ser informados os códigos e valores do
 clente mais alto, do mais baixo, do mais gordo e do mais magro, além da média
 das alturas e dos pesos dos clientes.
 
-#### [Exercicio 079](exercicios/079.cpp)
+#### [Exercicio 079](exercicios/079.c)
 
 Um funcionário de uma empresa recebe aumento salarial anualmente.
 
@@ -766,7 +766,7 @@ Faça um programa que determine o salário atual desse funcionário.
 Após concluir isto, altere o programa permitindo que o usuário digite o salário
 inicial do funcionário.
 
-#### [Exercicio 080](exercicios/080.cpp)
+#### [Exercicio 080](exercicios/080.c)
 
 Faça um programa que leia dez conjuntos de dois valores,
 o primeiro representando o número do aluno e o segundo representando
@@ -777,7 +777,7 @@ Encontre o aluno mais alto e o mais baixo.
 Mostre o número do aluno mais alto e o número do aluno mais baixo,
 junto com suas alturas.
 
-#### [Exercicio 081](exercicios/081.cpp)
+#### [Exercicio 081](exercicios/081.c)
 
 Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre
 acidentes de trânsito.
@@ -794,7 +794,7 @@ Qual a média de veículos nas cinco cidades juntas;
 Qual a média de acidentes de trânsito nas cidades com menos de
 2.000 veículos de passeio.
 
-#### [Exercicio 082](exercicios/082.cpp)
+#### [Exercicio 082](exercicios/082.c)
 
 Faça um programa que receba o valor de uma dívida e mostre uma tabela com os
 seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e
@@ -814,7 +814,7 @@ R$ 1.000,00 0 1 R$ 1.000,00
 R$ 1.100,00 100 3 R$ 366,00
 R$ 1.150,00 150 6 R$ 191,67
 
-#### [Exercicio 083](exercicios/083.cpp)
+#### [Exercicio 083](exercicios/083.c)
 
 Faça um programa que leia uma quantidade indeterminada de números positivos e
 conte quantos deles estão nos seguintes intervalos:
@@ -822,7 +822,7 @@ conte quantos deles estão nos seguintes intervalos:
 
 A entrada de dados deverá terminar quando for lido um número negativo.
 
-#### [Exercicio 084](exercicios/084.cpp)
+#### [Exercicio 084](exercicios/084.c)
 
 O cardápio de uma lanchonete é o seguinte:
 Especificação Código Preço
@@ -840,7 +840,7 @@ geral do pedido.
 
 Considere que o cliente deve informar quando o pedido deve ser encerrado.
 
-#### [Exercicio 085](exercicios/085.cpp)
+#### [Exercicio 085](exercicios/085.c)
 
 Em uma eleição presidencial existem quatro candidatos.
 Os votos são informados por meio de código.
@@ -859,7 +859,7 @@ A percentagem de votos em branco sobre o total de votos.
 
 Para finalizar o conjunto de votos tem-se o valor zero.
 
-#### [Exercicio 086](exercicios/086.cpp)
+#### [Exercicio 086](exercicios/086.c)
 
 Desenvolver um programa para verificar a nota do aluno em uma prova com 10
 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao
@@ -888,7 +888,7 @@ Gabarito da Prova:
 Após concluir isto você poderia incrementar o programa permitindo que o
 professor digite o gabarito da prova antes dos alunos usarem o programa.
 
-#### [Exercicio 087](exercicios/087.cpp)
+#### [Exercicio 087](exercicios/087.c)
 
 Em uma competição de salto em distância cada atleta tem direito a cinco saltos.
 No final da série de saltos de cada atleta, o melhor e o pior resultados são
@@ -919,7 +919,7 @@ Atleta: Rodrigo Curvêllo
     Resultado final:
     Rodrigo Curvêllo: 5.9 m
 
-#### [Exercicio 088](exercicios/088.cpp)
+#### [Exercicio 088](exercicios/088.c)
 
 Em uma competição de ginástica, cada atleta recebe votos de sete jurados.
 A melhor e a pior nota são eliminadas.
@@ -947,7 +947,7 @@ Nota: 9.7
     Pior nota: 7.5
     Média: 9,04
 
-#### [Exercicio 089](exercicios/089.cpp)
+#### [Exercicio 089](exercicios/089.c)
 
 Faça um programa que peça um numero inteiro positivo e em seguida mostre este
 numero invertido.
@@ -955,82 +955,82 @@ Exemplo:
 12376489
 => 98467321
 
-#### [Exercicio 090](exercicios/090.cpp)
+#### [Exercicio 090](exercicios/090.c)
 
 Faça um programa que mostre os n termos da Série a seguir:
 S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m.
 Imprima no final a soma da série.
 
-#### [Exercicio 091](exercicios/091.cpp)
+#### [Exercicio 091](exercicios/091.c)
 
 Sendo H= 1 + 1/2 + 1/3 + 1/4 + ... + 1/N,
 Faça um programa que calcule o valor de H com N termos.
 
 ### Listas
 
-#### [Exercicio 092](exercicios/092.cpp)
+#### [Exercicio 092](exercicios/092.c)
 
 Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 
-#### [Exercicio 093](exercicios/093.cpp)
+#### [Exercicio 093](exercicios/093.c)
 
 Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem
 inversa.
 
-#### [Exercicio 094](exercicios/094.cpp)
+#### [Exercicio 094](exercicios/094.c)
 
 Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
 
-#### [Exercicio 095](exercicios/095.cpp)
+#### [Exercicio 095](exercicios/095.c)
 
 Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes
 foram lidas. Imprima as consoantes.
 
-#### [Exercicio 096](exercicios/096.cpp)
+#### [Exercicio 096](exercicios/096.c)
 
 Faça um Programa que leia 20 números inteiros e armazene-os num vetor.
 Armazene os números pares no vetor PAR e os números IMPARES no vetor impar.
 Imprima os três vetores.
 
-#### [Exercicio 097](exercicios/097.cpp)
+#### [Exercicio 097](exercicios/097.c)
 
 Faça um Programa que peça as quatro notas de 10 alunos, calcule e armazene num
 vetor a média de cada aluno, imprima o número de alunos com média maior ou
 igual a 7.0.
 
-#### [Exercicio 098](exercicios/098.cpp)
+#### [Exercicio 098](exercicios/098.c)
 
 Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a
 multiplicação e os números.
 
-#### [Exercicio 099](exercicios/099.cpp)
+#### [Exercicio 099](exercicios/099.c)
 
 Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada
 informação no seu respectivo vetor. Imprima a idade e a altura na ordem
 inversa a ordem lida.
 
-#### [Exercicio 100](exercicios/100.cpp)
+#### [Exercicio 100](exercicios/100.c)
 
 Faça um Programa que leia um vetor A com 10 números inteiros, calcule e mostre
 a soma dos quadrados dos elementos do vetor.
 
-#### [Exercicio 101](exercicios/101.cpp)
+#### [Exercicio 101](exercicios/101.c)
 
 Faça um Programa que leia dois vetores com 10 elementos cada.
 Gere um terceiro vetor de 20 elementos, cujos valores deverão ser compostos
 pelos elementos intercalados dos dois outros vetores.
 
-#### [Exercicio 102](exercicios/102.cpp)
+#### [Exercicio 102](exercicios/102.c)
 
 Altere o programa anterior, intercalando 3 vetores de 10 elementos cada.
 
-#### [Exercicio 103](exercicios/103.cpp)
+#### [Exercicio 103](exercicios/103.c)
 
 Foram anotadas as idades e alturas de 30 alunos.
 Faça um Programa que determine quantos alunos com mais de 13 anos possuem
 altura inferior à média de altura desses alunos.
 
-#### [Exercicio 104](exercicios/104.cpp)
+#### [Exercicio 104](exercicios/104.c)
 
 Faça um programa que receba a temperatura média de cada mês do ano e
 armazene-as em uma lista.
@@ -1038,7 +1038,7 @@ Após isto, calcule a média anual das temperaturas e mostre todas as
 temperaturas acima da média anual, e em que mês elas ocorreram
 (mostrar o mês por extenso: 1 – Janeiro, 2 – Fevereiro, . . . ).
 
-#### [Exercicio 105](exercicios/105.cpp)
+#### [Exercicio 105](exercicios/105.c)
 
 Faça um programa que leia um número indeterminado de valores, correspondentes a
 notas, encerrando a entrada de dados quando for informado um valor igual a -1
@@ -1056,7 +1056,7 @@ Calcule e mostre a quantidade de valores acima da média calculada;
 Calcule e mostre a quantidade de valores abaixo de sete;
 Encerre o programa com uma mensagem;
 
-#### [Exercicio 106](exercicios/106.cpp)
+#### [Exercicio 106](exercicios/106.c)
 
 Utilize uma lista para resolver o problema a seguir.
 Uma empresa paga seus vendedores com base em comissões.
@@ -1079,7 +1079,7 @@ Desafio:
 Crie ma fórmula para chegar na posição da lista a partir do salário,
 sem fazer vários ifs aninhados.
 
-#### [Exercicio 107](exercicios/107.cpp)
+#### [Exercicio 107](exercicios/107.c)
 
 Uma grande emissora de televisão quer fazer uma enquete entre os seus
 telespectadores para saber qual o melhor jogador após cada jogo.
@@ -1132,7 +1132,7 @@ Jogador Votos %
 O melhor jogador foi o número 9, com 4 votos,
 correspondendo a 50% do total de votos.
 
-#### [Exercicio 108](exercicios/108.cpp)
+#### [Exercicio 108](exercicios/108.c)
 
 Uma empresa de pesquisas precisa tabular os resultados da seguinte enquete
 feita a um grande quantidade de organizações:
@@ -1175,7 +1175,7 @@ Total 8800
 O Sistema Operacional mais votado foi o Unix, com 3500 votos,
 correspondendo a 40% dos votos.
 
-#### [Exercicio 109](exercicios/109.cpp)
+#### [Exercicio 109](exercicios/109.c)
 
 As Organizações Tabajara resolveram dar um abono aos seus colaboradores em
 reconhecimento ao bom resultado alcançado durante o ano que passou.
