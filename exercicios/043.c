@@ -41,6 +41,7 @@ int main(void) {
     total = total - (total * desconto);
 
     printf("Valor a pagar: R$ %.2f\n", total);
+    printf("Desconto aplicado: %.2f%%\n", desconto * 100);
 
     return 0;
 }
